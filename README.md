@@ -46,7 +46,7 @@ The Bank Project offers the following functionalities:
 3. Run the executable:
 
    ```bash
-   ./bank-project-1
+   ./main
 
    ```
 
